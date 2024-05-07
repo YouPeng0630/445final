@@ -145,15 +145,15 @@ async function loadData1() {
 }
 
 async function loadData2() {
-    await fetchData('https://youpeng0630.github.io/445final/second_data.csv');  // Modify URL for your second CSV
+    await fetchData('https://youpeng0630.github.io/445final/BOCES_and_N_RC.csv');  // Modify URL for your second CSV
 }
 
 async function loadData3() {
-    await fetchData('https://youpeng0630.github.io/445final/third_data.csv');  // Modify URL for your third CSV
+    await fetchData('https://youpeng0630.github.io/445final/Institution_Grouping.csv');  // Modify URL for your third CSV
 }
 
 async function loadData4() {
-    await fetchData('https://youpeng0630.github.io/445final/fourth_data.csv');  // Modify URL for your fourth CSV
+    await fetchData('https://youpeng0630.github.io/445final/Demographic_Factors.csv');  // Modify URL for your fourth CSV
 }
 
 async function fetchData(url) {
