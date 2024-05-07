@@ -180,7 +180,7 @@ table, td, th {
 
 
 `Link for show ipynotebook analysis in git hub`
-<a href="https://youpeng0630.github.io/445final/IS455_project.ipynb" class="btn">Analysis Notebook</a>
+<a href="https://github.com/YouPeng0630/445final/blob/main/IS445_project.ipynb" class="btn">Analysis Notebook</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
