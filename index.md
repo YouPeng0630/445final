@@ -34,14 +34,14 @@ The first topic in the analysis is the information on the enrollment number in N
 
 The plot shows the enrollment trend by year, with the x-axis indicating the year while the y-axis is the sum of enrollment. From the plot we can see, the total number of enrolled students has shown a consistent decrease from 2021 to 2023.
 
-<iframe src="https://youpeng0630.github.io/445final/image/Enrollment_by_Grade-modified.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Enrollment_by_Grade-modified.jpg" width="125%" height="450"></iframe>
 
 
 If we divide the enrollment by grades, we can see that the enrollments varies by grade across the 3 years, with Grade 9 consistently reaching the peak in enrolling students. Meanwhile, the enrollments from Grade 1 to Grade 9 are overall increase then decrease from Grade 9 to Grade 12 in all 3 years.
 
 ### 1.2 Enrollment by NYS County across Years**
 
-<iframe src="https://youpeng0630.github.io/445final/enrollment_trends_by_grade.html" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/enrollment_trends_by_grade.html" width="130%" height="480"></iframe>
 
 
 [[[[[[[[[[[[[[need description from Prathyush, but we can also just use my draft below]]]]]]]]]]]]]]
@@ -56,7 +56,7 @@ Among the enrolled students, demographics should be an important part to explore
 
 ### 2.1 Gender Dsitribution
 
-<iframe src="https://youpeng0630.github.io/445final/gender.html" width="100%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/gender.html" width="90%" height="450"></iframe>
 
 From this plot, we can seek insights into the distribution of genders by year from 2021 to 2023. The x-axis of this bar chart is the gender type while the y-axis is the percentage of that gender. The dropdown menu in the bottom left corner enables us to select certain year to see the percentage distribution of enrolled students with different genders in that year. If hovering on the bar, detailed percentage data will show. By switching among years, we can also explore the changes or trends across different years of the gender distribution.
 
@@ -66,7 +66,7 @@ From the plot we can see, the gender distribution has remained relatively stable
 
 **2.2.1 General Race Dsitribution by Year**
 
-<iframe src="https://youpeng0630.github.io/445final/race.html" width="100%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/race.html" width="90%" height="600"></iframe>
 
 From this plot, we can seek insights into the distribution of races by year from 2021 to 2023. Similar to the gender distribution plot in section 1.1, the x-axis of this bar chart is the race type while the y-axis is the percentage of that race. This plot also includes a dropdown menu, as well as the hover details, that enables the selection of certain year to see the detailed race distribution in that year.
 
@@ -104,14 +104,14 @@ The plot shows the school counts by year in each need/resource category, with th
 **3.1.1 Gender Dsitribution by Need/Resource Category**
 
 
-<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC-modified.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC-modified.jpg" width="130%" height="450"></iframe>
 
 
 Directing back to gender and diving into the need/resource categories, we can see that the gender distribution by category shows a similar pattern across the 3 years within each school category. Across the 7 categories, male enrolled students are mostly higher than that of female students, except for Charter Schools, where the percentage of males is slightly lower than females.
 
 
 
-<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC_2023-modified.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC_2023-modified.jpg" width="130%" height="700"></iframe>
 
 In the detailed figure onlye for year 2023, the gender distribution by need/resource category is similar to the overall 3-year trend. Moreover, as can be seen in this magnified coordinate, the gender gap (males > females) is largest in NYC Public Schools, while the opposite is true (males < females) only in Charter Schools.
 
