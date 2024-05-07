@@ -132,10 +132,10 @@ More specifically, beyond presenting the school counts across counties for the y
 
 
 
-<button onclick="loadData1()">Load Data 1</button>
-<button onclick="loadData2()">Load Data 2</button>
-<button onclick="loadData3()">Load Data 3</button>
-<button onclick="loadData4()">Load Data 4</button>
+<button onclick="loadData1()">Reload BEDS Day Enrollment.csv</button>
+<button onclick="loadData2()">Reload BOCES_and_N_RC.csv</button>
+<button onclick="loadData3()">Reload Institution_Grouping.csv</button>
+<button onclick="loadData4()">Reload Demographic_Factors.csv</button>
 
 <div id="display"></div>
 
