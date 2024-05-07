@@ -130,6 +130,55 @@ We can see that the counties at NYS that have the most schools in 2023 are Kings
 
 More specifically, beyond presenting the school counts across counties for the year 2023. An additional feature, an interactive slider, is embedded in the plot above.  Each county is distinguished by a unique color for the purpose of better visual differentiations. If dragging to create a rectangular on the slider that covers a certain range of school numbers, only counties have schools within that range will be displayed on the plot. This selection tool enable us to discover the concentration of educational institutions in different areas of the city at a glance.
 
+
+
+<button onclick="loadData1()">Load Data 1</button>
+<button onclick="loadData2()">Load Data 2</button>
+<button onclick="loadData3()">Load Data 3</button>
+<button onclick="loadData4()">Load Data 4</button>
+
+<div id="display"></div>
+
+<script>
+async function loadData1() {
+    await fetchData('https://youpeng0630.github.io/445final/BEDS_Day_Enrollment.csv');
+}
+
+async function loadData2() {
+    await fetchData('https://youpeng0630.github.io/445final/second_data.csv');  // Modify URL for your second CSV
+}
+
+async function loadData3() {
+    await fetchData('https://youpeng0630.github.io/445final/third_data.csv');  // Modify URL for your third CSV
+}
+
+async function loadData4() {
+    await fetchData('https://youpeng0630.github.io/445final/fourth_data.csv');  // Modify URL for your fourth CSV
+}
+
+async function fetchData(url) {
+    const response = await fetch(url);
+    const data = await response.text();
+    const rows = data.split('\n').map(row => row.split(','));
+    displayData(rows);
+}
+
+function displayData(rows) {
+    const container = document.getElementById('display');
+    container.innerHTML = '<table>' + rows.map(row => `<tr>${row.map(cell => `<td>${cell}</td>`).join('')}</tr>`).join('') + '</table>';
+}
+</script>
+
+<style>
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+}
+</style>
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 
 
