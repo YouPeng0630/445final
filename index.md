@@ -43,9 +43,6 @@ If we divide the enrollment by grades, we can see that the enrollments varies by
 
 <iframe src="https://youpeng0630.github.io/445final/enrollment_trends_by_grade.html" width="140%" height="480"></iframe>
 
-
-[[[[[[[[[[[[[[need description from Prathyush, but we can also just use my draft below]]]]]]]]]]]]]]
-
 This plot shows the nrollment information by NYS counties and by year. The x-axis is each grade while the y-axis is the enrollment of that grade. The dropdown menu in the bottom left corner enables us to select certain county in certain year to see the enrollment of each grade in that year. If hovering on the bar, details such as county name, year, grade, and sum of students will display.
 
 If diving deeper into different NYS counties, the trend of enrollment is mostly align with the general trend showed in section 1.1 but some conflicted patterns occur. For example, Allegany enrolled the most student in Grade 1 in 2022, and the Grade 9 enrollments in Hamilton across all the 3 years are not the most and even the least in 2022 
