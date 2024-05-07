@@ -78,7 +78,11 @@ The percentages of each race have also remained relatively stable across the 3 y
 <iframe src="https://youpeng0630.github.io/445final/log_NUM_ASIAN.html" width="100%" height="600"></iframe>
 <iframe src="https://youpeng0630.github.io/445final/log_NUM_WHITE.html" width="100%" height="600"></iframe>
 
-[[[[[[[[[[[[[[need description from Veeresh]]]]]]]]]]]]]]
+The series of plots geographically shows the distribution across counties of students from 3 races: White, Asian, and Black. The color bar on the right illustrates a density of students, with a higher position in the bar (brighter yellow) indicating higher density and a lower position in the bar (darker purple) indicating lower density.
+
+Zooming on each county, first, we can interpret from the color bar that, the general pattern for race distribution corresponds to the one in section 2.2.1 that White students reach the yellow color in the bar, indicating more students; while Asian and Black students are displayed by the middle or low colors, indicating a lower quantity of students.
+
+Then, from the geographical color patterns, if hovering we can discover some detailed information. For example, Hamilton consistently has the lowest student amounts across the 3 races since it has the darkest color in all 3 maps. Conversely, the New York City area always shows the brightest color across 3 maps, indicating it has the most amount of students from all 3 races.
 
 ## Plot Topic 3 - School Distribution
 
