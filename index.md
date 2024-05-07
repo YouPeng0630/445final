@@ -179,6 +179,10 @@ table, td, th {
 </style>
 
 
+`Link for show ipynotebook analysis in git hub`
+<a href="https://youpeng0630.github.io/445final/IS455_project.ipynb" class="btn">Analysis Notebook</a>
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 
 
