@@ -29,12 +29,12 @@ The first topic in the analysis is the information on the enrollment number in N
 
 ### 1.1 General Enrollment
 
-<iframe src="https://youpeng0630.github.io/445final/image/Sum_of_Enrollment.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Sum_of_Enrollment-modified.jpg" width="130%" height="600"></iframe>
 
 
 The plot shows the enrollment trend by year, with the x-axis indicating the year while the y-axis is the sum of enrollment. From the plot we can see, the total number of enrolled students has shown a consistent decrease from 2021 to 2023.
 
-<iframe src="https://youpeng0630.github.io/445final/image/Enrollment_by_Grade.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Enrollment_by_Grade-modified.jpg" width="130%" height="600"></iframe>
 
 
 If we divide the enrollment by grades, we can see that the enrollments varies by grade across the 3 years, with Grade 9 consistently reaching the peak in enrolling students. Meanwhile, the enrollments from Grade 1 to Grade 9 are overall increase then decrease from Grade 9 to Grade 12 in all 3 years.
@@ -98,20 +98,20 @@ of less than 2,500.
 - **Low N/RC Districts** - All districts below the 20th percentile (0.770) on the index.
 - **Charter Schools** - Charter Schools
 
-<iframe src="https://youpeng0630.github.io/445final/image/Sum_of_Enrollment.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Sum_of_Enrollment-modified.jpg" width="130%" height="600"></iframe>
 The plot shows the school counts by year in each need/resource category, with the x-axis indicating the category while the y-axis the school counts. From the plot we can see that the school counts by need/resource category across the 3 years are nearly the same. Among them, NYS has the largest number of Public Schools (~ 1600), followed by Average Need Districts (~ 1350), Low Need Districts (~ 600), and High Need/Resource Rural Districts (~ 350).
 
 **3.1.1 Gender Dsitribution by Need/Resource Category**
 
 
-<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC-modified.jpg" width="130%" height="600"></iframe>
 
 
 Directing back to gender and diving into the need/resource categories, we can see that the gender distribution by category shows a similar pattern across the 3 years within each school category. Across the 7 categories, male enrolled students are mostly higher than that of female students, except for Charter Schools, where the percentage of males is slightly lower than females.
 
 
 
-<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC_2023.jpg" width="130%" height="600"></iframe>
+<iframe src="https://youpeng0630.github.io/445final/image/Gender_by_NRC_2023-modified.jpg" width="130%" height="600"></iframe>
 
 In the detailed figure onlye for year 2023, the gender distribution by need/resource category is similar to the overall 3-year trend. Moreover, as can be seen in this magnified coordinate, the gender gap (males > females) is largest in NYC Public Schools, while the opposite is true (males < females) only in Charter Schools.
 
